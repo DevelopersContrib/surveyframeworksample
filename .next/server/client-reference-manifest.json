@@ -1,0 +1,378 @@
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Container.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Container.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Form.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Form.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/HeaderWidget.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/HeaderWidget.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ScriptLoader.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/ScriptLoader.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\components\\Container.jsx": {
+      "id": "(app-client)/./components/Container.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\components\\Form.jsx": {
+      "id": "(app-client)/./components/Form.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\components\\HeaderWidget.jsx": {
+      "id": "(app-client)/./components/HeaderWidget.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\components\\ScriptLoader.jsx": {
+      "id": "(app-client)/./components/ScriptLoader.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\app\\page": {
+      "modules": [
+        "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\@fortawesome\\fontawesome-svg-core\\styles.css"
+      ],
+      "files": [
+        "static/css/app/page.css"
+      ]
+    },
+    "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\app\\layout": {
+      "modules": [
+        "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\app\\globals.css",
+        "C:\\Projects\\frameworks\\survey\\surveyframeworksample\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
+      ],
+      "files": [
+        "static/css/app/layout.css"
+      ]
+    }
+  }
+}
